@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "deployer": "0xf2efCF2A4AAA647AAcdCb225dc0A552547f21178",
+  "GovernanceToken": "0xE58213E980476816662e00A43410f9d2F534F250",
+  "ProtocolNFT": "0x12B6Be561E1AE14F491dEd73D932E2d73a483B45",
+  "Staking": "0x5F3aE13abF17a9fdBEa5b735162dB5766bB143Af",
+  "SimpleGovernance": "0x545792B5C01c58af92D952c672045aCf3b6AC126",
+  "ChainlinkEthUsdFeed": "0x694AA1769357215DE4FAC081bf1f309aDC325306",
+  "mockOracle": false,
+  "votingPeriodBlocks": "30"
+}
