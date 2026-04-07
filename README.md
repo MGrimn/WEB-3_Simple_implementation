@@ -1,4 +1,4 @@
-# Protocolo Web3 — MVP
+# Protocolo Web3 
 
 Guia direto para rodar o projeto e testar pelo frontend.
 
